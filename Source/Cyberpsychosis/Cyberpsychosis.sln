@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyberpsychosis", "Cyberpsychosis\Cyberpsychosis.csproj", "{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		v1.0|Any CPU = v1.0|Any CPU
+		v1.1|Any CPU = v1.1|Any CPU
+		v1.2|Any CPU = v1.2|Any CPU
+		v1.3|Any CPU = v1.3|Any CPU
+		v1.4|Any CPU = v1.4|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}.v1.0|Any CPU.ActiveCfg = v1.0|Any CPU
+		{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}.v1.0|Any CPU.Build.0 = v1.0|Any CPU
+		{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}.v1.1|Any CPU.ActiveCfg = v1.1|Any CPU
+		{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}.v1.1|Any CPU.Build.0 = v1.1|Any CPU
+		{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}.v1.2|Any CPU.ActiveCfg = v1.2|Any CPU
+		{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}.v1.2|Any CPU.Build.0 = v1.2|Any CPU
+		{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}.v1.3|Any CPU.ActiveCfg = v1.3|Any CPU
+		{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}.v1.3|Any CPU.Build.0 = v1.3|Any CPU
+		{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}.v1.4|Any CPU.ActiveCfg = v1.4|Any CPU
+		{448545DF-BF9E-4DE8-B6C1-7BA9A486E38D}.v1.4|Any CPU.Build.0 = v1.4|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08FE63A7-2B2F-4B5C-99F9-CD016D7A1CEE}
+	EndGlobalSection
+EndGlobal
